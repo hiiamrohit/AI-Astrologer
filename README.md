@@ -3,13 +3,7 @@
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen)](https://www.iamrohit.in/ai-astrologer)
 [![GitHub Stars](https://img.shields.io/github/stars/hiiamrohit/ai-astrologer?style=social)](https://github.com/hiiamrohit/ai-astrologer)
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
-
-<div align="left" width="50%">
-  <img src="https://www.iamrohit.in/ai-astrologer/AI-Astrologer-Screenshot-1.webp" alt="AI Astrologer Screenshot">
-</div>
-<div align="right" width="50%">
-  <img src="https://www.iamrohit.in/ai-astrologer/AI-Astrologer-Screenshot-2.webp" alt="AI Astrologer Screenshot">
-</div>
+<table><tr><td> <img src="https://www.iamrohit.in/ai-astrologer/AI-Astrologer-Screenshot-1.webp" alt="AI Astrologer Screenshot"></td><td><img src="https://www.iamrohit.in/ai-astrologer/AI-Astrologer-Screenshot-2.webp" alt="AI Astrologer Screenshot"></td></tr></table>
 
 ## 🌟 Introduction
 
