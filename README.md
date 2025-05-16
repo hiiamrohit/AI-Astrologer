@@ -31,7 +31,7 @@ Experience the AI Astrologer now:
 
 ## 📌 SEO Keywords
 
-Vedic astrology chatbot | AI astrologer online | Free astrology consultation | Birth chart analysis tool | Horoscope prediction AI | Planetary transit calculator | Kundli matching software | Astrological remedies generator | Indian astrology chatbot | Jyotish AI assistant
+Vedic astrology chatbot | AI astrologer online | Free astrology consultation | Birth chart analysis tool | Horoscope prediction AI | Free Chat With AI Astrologer | Talk To AI Astrologer | Chat With Indian Astrologer | Free Astrology Chat | Jyotish AI assistant
 
 ## 📋 Installation Guide
 
